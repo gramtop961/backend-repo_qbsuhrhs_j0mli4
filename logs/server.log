@@ -1,19 +1,19 @@
 INFO:     Will watch for changes in these directories: ['/home/workspace']
 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
-INFO:     Started reloader process [201] using StatReload
-INFO:     Started server process [203]
+INFO:     Started reloader process [249] using StatReload
+INFO:     Started server process [251]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
-INFO:     172.20.0.1:51414 - "HEAD / HTTP/1.1" 405 Method Not Allowed
-INFO:     172.20.0.1:51416 - "GET /api/categories HTTP/1.1" 200 OK
-INFO:     172.20.0.1:51426 - "GET /api/items HTTP/1.1" 200 OK
-INFO:     172.20.0.1:51416 - "GET /api/categories HTTP/1.1" 200 OK
-INFO:     172.20.0.1:51426 - "GET /api/items HTTP/1.1" 200 OK
-INFO:     172.20.0.1:51442 - "GET /test HTTP/1.1" 200 OK
-INFO:     172.20.0.1:51442 - "GET /test HTTP/1.1" 200 OK
-INFO:     172.20.0.1:51442 - "GET /api/categories HTTP/1.1" 200 OK
-INFO:     172.20.0.1:51426 - "GET /api/items HTTP/1.1" 200 OK
-INFO:     172.20.0.1:51416 - "GET /test HTTP/1.1" 200 OK
-INFO:     172.20.0.1:51442 - "GET /api/categories HTTP/1.1" 200 OK
-INFO:     172.20.0.1:51426 - "GET /api/items HTTP/1.1" 200 OK
-INFO:     172.20.0.1:51416 - "GET /test HTTP/1.1" 200 OK
+INFO:     172.20.0.1:33778 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:33788 - "GET /api/categories HTTP/1.1" 200 OK
+INFO:     172.20.0.1:33802 - "GET /api/items HTTP/1.1" 200 OK
+INFO:     172.20.0.1:33788 - "GET /api/categories HTTP/1.1" 200 OK
+INFO:     172.20.0.1:33802 - "GET /api/items HTTP/1.1" 200 OK
+INFO:     172.20.0.1:33816 - "GET /test HTTP/1.1" 200 OK
+INFO:     172.20.0.1:33816 - "GET /test HTTP/1.1" 200 OK
+INFO:     172.20.0.1:54620 - "GET /api/categories HTTP/1.1" 200 OK
+INFO:     172.20.0.1:54610 - "GET /api/items HTTP/1.1" 200 OK
+INFO:     172.20.0.1:54634 - "GET /test HTTP/1.1" 200 OK
+INFO:     172.20.0.1:54620 - "GET /api/categories HTTP/1.1" 200 OK
+INFO:     172.20.0.1:54610 - "GET /api/items HTTP/1.1" 200 OK
+INFO:     172.20.0.1:54634 - "GET /test HTTP/1.1" 200 OK
